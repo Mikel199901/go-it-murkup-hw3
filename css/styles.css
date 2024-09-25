@@ -70,7 +70,7 @@ address {
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    max-width: 596px;
+    max-width: 496px;
 }
 
 .page-main .section-one .button {
@@ -186,6 +186,8 @@ address {
 
 .page-footer {
     background-color:#2E2F42;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .page-footer .link-studio {
@@ -197,6 +199,8 @@ address {
     text-transform: uppercase;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    margin-bottom: 16px;
+    display: inline-block;
 }
 
 .page-footer .link-studio .studio {
@@ -210,6 +214,7 @@ address {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
 
 ul,
