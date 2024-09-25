@@ -68,6 +68,8 @@ img {
 .contact {
     display: flex;
     padding-left: 332px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .menu-address {
