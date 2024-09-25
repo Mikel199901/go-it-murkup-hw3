@@ -188,7 +188,7 @@ address {
     background-color:#2E2F42;
 }
 
-.page-footer .link {
+.page-footer .link-studio {
     color:#4D5AE5;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -199,7 +199,7 @@ address {
     letter-spacing: 0.03em;
 }
 
-.page-footer .link .studio {
+.page-footer .link-studio .studio {
     color:#F4F4FD;
 }
 
