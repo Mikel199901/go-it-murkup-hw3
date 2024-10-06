@@ -70,7 +70,7 @@ address {
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    max-width: 526px;
+    max-width: 496px;
 }
 
 .page-main .section-one .button {
@@ -410,16 +410,6 @@ img {
     margin-bottom: 72px;
 }
 
-.container-section-four .section-title {
-    padding-left: 16px;
-    padding-top: 32px;
-    padding-bottom: 8px;
-}
-
-.container-section-four .text {
-    padding-left: 16px;
-}
-
 .container-section-four .menu {
     flex-wrap: wrap;
     column-gap: 24px;
@@ -433,7 +423,7 @@ img {
 
 
 .container-section-four .border {
-    padding-bottom: 23px;
+    padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
 }
